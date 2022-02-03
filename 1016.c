@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main() { 
     int num, horas, distanciar, minutos;
     scanf("%d", &num);
